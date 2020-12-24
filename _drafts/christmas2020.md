@@ -1,0 +1,15 @@
+TL;DR we grew up in a free internet and expect privacy as a human right. But for the younger generations, that is not the norm and as they grow older, they likely won't even know what it's like let alone fight for it. In 100 years from now they'll look back at this period of time as a relatively happy anomaly.
+
+Firstly, today's children are growing up in a world where connectivity is taken for granted; privacy, less so. Surveillance capitalism, intrusive advertising, mobile tracking are part of daily life and the majority of them will never experience what it feels not to be under constant watch or to have every action scrutinised and monetised. Already, the path of least resistance for a normal social life online is to give in and accept the terms and conditions. You can still use signal, use tor, but you're like that weirdo that lives in a cabin in the woods and keeps talking nonsense. There is no immediate negative feedback to give in and embrace endemic surveillance; there might be a data breach here and there, but it's forgotten the next day. Nobody cares. The percentage of users that's actually affected by it will be negligible.
+
+Secondly, the freedom of expression the "West" and modern democracies have been enjoying since the end of the World Wars has been pretty much unprecedented before. I can't recall a time in history where a significant proportion of the world's population could express their opinions without fear of repercussion from their government; let alone being able to do so on a planetary scale. The main fallacy of democracy is the requirement for an educated, rational electorate. Remove education with years of cuts and lobbying, add emotional click-bait to fight reason, and democracy has no leg to stand on. Without that, freedom of expression is a catch-phrase with no actual way to be enforced into law.
+
+Thirdly, as the centre of power shifts from the USA to China, I expect that the Chinese cultural stance on matters of privacy and surveillance will slowly become the standard everywhere as people "grow" into this new system. The number of estimated Internet users already tips the scale towards their model. It won't be forced; it won't be a coup d'etat. It will creep in like facial recognition, until it's too expensive to rip out.
+
+To those of us who still fight for freedom and push the uphill struggle against corporations insatiable appetite for more personal data, I ask - what if we're part of an anomaly? What if this is a losing battle? 
+
+Ultimately life is about compromise. Being privacy conscious is costly, and not everyone has the time, education or willpower to keep fighting it. It's to easy to just give in. Everything is geared towards surveillance, resistance is futile, embrace the collective.
+
+All I can do is educate my children and my family and build small privacy-conscious routines, but it's a drop in the ocean. I can't stop fighting because my belief in privacy is too ingrained into my own self; but I do feel tired.
+
+Merry Christmas everyone.  
